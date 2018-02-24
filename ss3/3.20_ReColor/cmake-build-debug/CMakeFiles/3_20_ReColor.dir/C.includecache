@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/DataStruct/ss3/3.20_ReColor/Queue.c
+Queue.h
+/home/wang/DataStruct/ss3/3.20_ReColor/Queue.h
+
+/home/wang/DataStruct/ss3/3.20_ReColor/Queue.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/wang/DataStruct/ss3/3.20_ReColor/main.c
+stdio.h
+-
+Queue.h
+/home/wang/DataStruct/ss3/3.20_ReColor/Queue.h
+

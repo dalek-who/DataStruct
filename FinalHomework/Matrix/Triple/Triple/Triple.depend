@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1497225758 source:e:\datastruct\finalhomework\matrix\triple\triple\main.cpp
+	"Triple.hpp"
+	<cstring>
+	<vector>
+
+1498625322 e:\datastruct\finalhomework\matrix\triple\triple\triple.hpp
+	"OrthMatrix.hpp"
+	<iostream>
+	<vector>
+
+1498654737 e:\datastruct\finalhomework\matrix\triple\triple\orthmatrix.hpp
+	<cstdlib>
+	<iostream>
+

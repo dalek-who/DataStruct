@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss9/9.29_RingSearch/LinkList.c
+LinkList.h
+E:/DataStruct/ss9/9.29_RingSearch/LinkList.h
+
+E:/DataStruct/ss9/9.29_RingSearch/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+E:/DataStruct/ss9/9.29_RingSearch/main.c
+LinkList.h
+E:/DataStruct/ss9/9.29_RingSearch/LinkList.h
+

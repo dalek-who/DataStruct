@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499221774 source:e:\datastruct\exam\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

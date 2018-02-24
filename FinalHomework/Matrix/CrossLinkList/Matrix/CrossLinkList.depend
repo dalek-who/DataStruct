@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1497082196 source:e:\datastruct\finalhomework\matrix\crosslinklist\matrix\main.cpp
+	"OrthMatrix.hpp"
+	<cstring>
+
+1498657687 e:\datastruct\finalhomework\matrix\crosslinklist\matrix\orthmatrix.hpp
+	<cstdlib>
+	<iostream>
+

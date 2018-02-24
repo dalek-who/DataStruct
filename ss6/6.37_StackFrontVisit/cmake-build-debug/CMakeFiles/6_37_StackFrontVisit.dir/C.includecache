@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss6/6.37_StackFrontVisit/Stack.c
+Stack.h
+E:/DataStruct/ss6/6.37_StackFrontVisit/Stack.h
+Tree.h
+E:/DataStruct/ss6/6.37_StackFrontVisit/Tree.h
+
+E:/DataStruct/ss6/6.37_StackFrontVisit/Stack.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+Tree.h
+E:/DataStruct/ss6/6.37_StackFrontVisit/Tree.h
+
+E:/DataStruct/ss6/6.37_StackFrontVisit/Tree.c
+Tree.h
+E:/DataStruct/ss6/6.37_StackFrontVisit/Tree.h
+
+E:/DataStruct/ss6/6.37_StackFrontVisit/Tree.h
+stdio.h
+-
+stdlib.h
+-
+
+E:/DataStruct/ss6/6.37_StackFrontVisit/main.c
+stdio.h
+-
+Tree.h
+E:/DataStruct/ss6/6.37_StackFrontVisit/Tree.h
+Stack.h
+E:/DataStruct/ss6/6.37_StackFrontVisit/Stack.h
+

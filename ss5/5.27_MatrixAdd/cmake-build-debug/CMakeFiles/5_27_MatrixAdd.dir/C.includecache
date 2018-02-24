@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss5/5.27_MatrixAdd/CrossLinkList.c
+CrossLinkList.h
+E:/DataStruct/ss5/5.27_MatrixAdd/CrossLinkList.h
+
+E:/DataStruct/ss5/5.27_MatrixAdd/CrossLinkList.h
+stdio.h
+-
+stdlib.h
+-
+
+E:/DataStruct/ss5/5.27_MatrixAdd/main.c
+stdio.h
+-
+CrossLinkList.h
+E:/DataStruct/ss5/5.27_MatrixAdd/CrossLinkList.h
+

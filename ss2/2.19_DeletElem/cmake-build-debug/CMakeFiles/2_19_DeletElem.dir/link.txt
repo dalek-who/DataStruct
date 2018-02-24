@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/2_19_DeletElem.dir/main.c.o CMakeFiles/2_19_DeletElem.dir/LinkList_int.c.o  -o 2_19_DeletElem 

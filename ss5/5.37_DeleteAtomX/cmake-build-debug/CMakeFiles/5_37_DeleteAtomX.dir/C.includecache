@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss5/5.37_DeleteAtomX/Glist.c
+Glist.h
+E:/DataStruct/ss5/5.37_DeleteAtomX/Glist.h
+
+E:/DataStruct/ss5/5.37_DeleteAtomX/Glist.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Stack.h
+E:/DataStruct/ss5/5.37_DeleteAtomX/Stack.h
+
+E:/DataStruct/ss5/5.37_DeleteAtomX/Stack.c
+Stack.h
+E:/DataStruct/ss5/5.37_DeleteAtomX/Stack.h
+
+E:/DataStruct/ss5/5.37_DeleteAtomX/Stack.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+E:/DataStruct/ss5/5.37_DeleteAtomX/main.c
+stdio.h
+-
+Glist.h
+E:/DataStruct/ss5/5.37_DeleteAtomX/Glist.h
+Stack.h
+E:/DataStruct/ss5/5.37_DeleteAtomX/Stack.h
+

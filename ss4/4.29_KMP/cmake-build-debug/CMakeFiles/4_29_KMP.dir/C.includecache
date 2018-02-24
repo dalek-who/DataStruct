@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/DataStruct/ss4/4.29_KMP/DoubleLinkList.c
+DoubleLinkList.h
+/home/wang/DataStruct/ss4/4.29_KMP/DoubleLinkList.h
+
+/home/wang/DataStruct/ss4/4.29_KMP/DoubleLinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+/home/wang/DataStruct/ss4/4.29_KMP/main.c
+stdio.h
+-
+DoubleLinkList.h
+/home/wang/DataStruct/ss4/4.29_KMP/DoubleLinkList.h
+

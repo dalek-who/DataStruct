@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/DataStruct/ss3/3.17_Symmetry/Stack.c
+Stack.h
+/home/wang/DataStruct/ss3/3.17_Symmetry/Stack.h
+
+/home/wang/DataStruct/ss3/3.17_Symmetry/Stack.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/wang/DataStruct/ss3/3.17_Symmetry/main.c
+stdio.h
+-
+Stack.h
+/home/wang/DataStruct/ss3/3.17_Symmetry/Stack.h
+

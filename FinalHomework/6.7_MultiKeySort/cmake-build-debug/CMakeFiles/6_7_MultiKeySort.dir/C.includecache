@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/FinalHomework/6.7_MultiKeySort/LinkList.c
+LinkList.h
+E:/DataStruct/FinalHomework/6.7_MultiKeySort/LinkList.h
+
+E:/DataStruct/FinalHomework/6.7_MultiKeySort/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+E:/DataStruct/FinalHomework/6.7_MultiKeySort/main.c
+LinkList.h
+E:/DataStruct/FinalHomework/6.7_MultiKeySort/LinkList.h
+

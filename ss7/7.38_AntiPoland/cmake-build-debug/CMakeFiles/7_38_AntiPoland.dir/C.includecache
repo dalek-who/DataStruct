@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss7/7.38_AntiPoland/Graph_NeighborLinkList.h
+stdio.h
+-
+stdlib.h
+-
+LinkList.h
+E:/DataStruct/ss7/7.38_AntiPoland/LinkList.h
+
+E:/DataStruct/ss7/7.38_AntiPoland/Graph_NeignborLinklist.c
+Graph_NeighborLinkList.h
+E:/DataStruct/ss7/7.38_AntiPoland/Graph_NeighborLinkList.h
+
+E:/DataStruct/ss7/7.38_AntiPoland/LinkList.c
+LinkList.h
+E:/DataStruct/ss7/7.38_AntiPoland/LinkList.h
+
+E:/DataStruct/ss7/7.38_AntiPoland/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+E:/DataStruct/ss7/7.38_AntiPoland/main.c
+stdio.h
+-
+Graph_NeighborLinkList.h
+E:/DataStruct/ss7/7.38_AntiPoland/Graph_NeighborLinkList.h
+

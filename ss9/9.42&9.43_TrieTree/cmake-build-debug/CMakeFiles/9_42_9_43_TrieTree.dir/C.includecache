@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss9/9.42&9.43_TrieTree/LinkList.c
+LinkList.h
+E:/DataStruct/ss9/9.42&9.43_TrieTree/LinkList.h
+
+E:/DataStruct/ss9/9.42&9.43_TrieTree/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+E:/DataStruct/ss9/9.42&9.43_TrieTree/main.c
+stdio.h
+-
+LinkList.h
+E:/DataStruct/ss9/9.42&9.43_TrieTree/LinkList.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/DataStruct/ss3/3.25_NOT-RECURSION/Stack.c
+Stack.h
+/home/wang/DataStruct/ss3/3.25_NOT-RECURSION/Stack.h
+
+/home/wang/DataStruct/ss3/3.25_NOT-RECURSION/Stack.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/wang/DataStruct/ss3/3.25_NOT-RECURSION/main.c
+Stack.h
+/home/wang/DataStruct/ss3/3.25_NOT-RECURSION/Stack.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss10/10.25_LinkListInsertSort/LinkList.c
+LinkList.h
+E:/DataStruct/ss10/10.25_LinkListInsertSort/LinkList.h
+
+E:/DataStruct/ss10/10.25_LinkListInsertSort/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+E:/DataStruct/ss10/10.25_LinkListInsertSort/main.c
+LinkList.h
+E:/DataStruct/ss10/10.25_LinkListInsertSort/LinkList.h
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/DataStruct/ss3/3.31_HuiWen/Queue.c
+Queue.h
+/home/wang/DataStruct/ss3/3.31_HuiWen/Queue.h
+
+/home/wang/DataStruct/ss3/3.31_HuiWen/Queue.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/wang/DataStruct/ss3/3.31_HuiWen/Stack.c
+Stack.h
+/home/wang/DataStruct/ss3/3.31_HuiWen/Stack.h
+
+/home/wang/DataStruct/ss3/3.31_HuiWen/Stack.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/wang/DataStruct/ss3/3.31_HuiWen/main.c
+stdio.h
+-
+Stack.h
+/home/wang/DataStruct/ss3/3.31_HuiWen/Stack.h
+Queue.h
+/home/wang/DataStruct/ss3/3.31_HuiWen/Queue.h
+

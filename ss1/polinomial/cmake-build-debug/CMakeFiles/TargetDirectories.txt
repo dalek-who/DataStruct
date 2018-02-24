@@ -1,0 +1,3 @@
+/home/wang/DataStruct/ss1/polinomial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wang/DataStruct/ss1/polinomial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wang/DataStruct/ss1/polinomial/cmake-build-debug/CMakeFiles/polinomial.dir

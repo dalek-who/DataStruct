@@ -1,0 +1,4 @@
+"D:\CLion 2017.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\DataStruct\ss7\7.42_Dijkstra
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/DataStruct/ss7/7.42_Dijkstra/cmake-build-debug

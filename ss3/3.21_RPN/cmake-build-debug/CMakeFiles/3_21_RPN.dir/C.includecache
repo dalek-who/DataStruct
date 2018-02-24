@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss3/3.21_RPN/Stack.c
+Stack.h
+E:/DataStruct/ss3/3.21_RPN/Stack.h
+
+E:/DataStruct/ss3/3.21_RPN/Stack.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+E:/DataStruct/ss3/3.21_RPN/main.c
+stdio.h
+-
+Stack.h
+E:/DataStruct/ss3/3.21_RPN/Stack.h
+

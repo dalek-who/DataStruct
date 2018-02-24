@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss10/10.30_ImprovedQuickSort/Stack.c
+Stack.h
+E:/DataStruct/ss10/10.30_ImprovedQuickSort/Stack.h
+
+E:/DataStruct/ss10/10.30_ImprovedQuickSort/Stack.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+E:/DataStruct/ss10/10.30_ImprovedQuickSort/main.c
+stdio.h
+-
+Stack.h
+E:/DataStruct/ss10/10.30_ImprovedQuickSort/Stack.h
+

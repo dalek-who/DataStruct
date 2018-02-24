@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/3_17_Symmetry.dir/main.c.o CMakeFiles/3_17_Symmetry.dir/Stack.c.o  -o 3_17_Symmetry 

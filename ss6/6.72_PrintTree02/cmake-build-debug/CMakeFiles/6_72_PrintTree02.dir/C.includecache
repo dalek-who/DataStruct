@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss6/6.72_PrintTree02/LinkList.c
+LinkList.h
+E:/DataStruct/ss6/6.72_PrintTree02/LinkList.h
+
+E:/DataStruct/ss6/6.72_PrintTree02/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+E:/DataStruct/ss6/6.72_PrintTree02/Tree_ChildLinklist.c
+Tree_ChildLinklist.h
+E:/DataStruct/ss6/6.72_PrintTree02/Tree_ChildLinklist.h
+
+E:/DataStruct/ss6/6.72_PrintTree02/Tree_ChildLinklist.h
+stdio.h
+-
+stdlib.h
+-
+LinkList.h
+E:/DataStruct/ss6/6.72_PrintTree02/LinkList.h
+
+E:/DataStruct/ss6/6.72_PrintTree02/main.c
+stdio.h
+-
+Tree_ChildLinklist.h
+E:/DataStruct/ss6/6.72_PrintTree02/Tree_ChildLinklist.h
+LinkList.h
+E:/DataStruct/ss6/6.72_PrintTree02/LinkList.h
+

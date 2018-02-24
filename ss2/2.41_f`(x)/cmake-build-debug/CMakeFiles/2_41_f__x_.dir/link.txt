@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/2_41_f__x_.dir/main.c.o CMakeFiles/2_41_f__x_.dir/LinkList.c.o  -o 2_41_f__x_ 

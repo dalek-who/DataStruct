@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss4/4.21_BasicOperation/LinkList.c
+LinkList.h
+E:/DataStruct/ss4/4.21_BasicOperation/LinkList.h
+
+E:/DataStruct/ss4/4.21_BasicOperation/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+E:/DataStruct/ss4/4.21_BasicOperation/main.c
+stdio.h
+-
+LinkList.h
+E:/DataStruct/ss4/4.21_BasicOperation/LinkList.h
+

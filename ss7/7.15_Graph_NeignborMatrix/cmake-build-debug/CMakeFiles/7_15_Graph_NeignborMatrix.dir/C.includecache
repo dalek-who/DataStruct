@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss7/7.15_Graph_NeignborMatrix/Graph_NeignborMatrix.c
+Graph_NeignborMatrix.h
+E:/DataStruct/ss7/7.15_Graph_NeignborMatrix/Graph_NeignborMatrix.h
+
+E:/DataStruct/ss7/7.15_Graph_NeignborMatrix/Graph_NeignborMatrix.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+E:/DataStruct/ss7/7.15_Graph_NeignborMatrix/main.c
+stdio.h
+-
+Graph_NeignborMatrix.h
+E:/DataStruct/ss7/7.15_Graph_NeignborMatrix/Graph_NeignborMatrix.h
+

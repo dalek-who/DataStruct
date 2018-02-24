@@ -1,0 +1,4 @@
+"D:\CLion 2017.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\DataStruct\ss9\9.42&9.43_TrieTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/DataStruct/ss9/9.42&9.43_TrieTree/cmake-build-debug

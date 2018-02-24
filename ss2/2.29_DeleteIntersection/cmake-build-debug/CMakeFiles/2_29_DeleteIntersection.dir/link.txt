@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/2_29_DeleteIntersection.dir/main.c.o CMakeFiles/2_29_DeleteIntersection.dir/SqList_int.c.o  -o 2_29_DeleteIntersection 

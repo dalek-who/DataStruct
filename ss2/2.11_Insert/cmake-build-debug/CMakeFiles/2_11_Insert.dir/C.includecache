@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wang/DataStruct/ss2/2.11_Insert/SqList_int.c
+SqList_int.h
+/home/wang/DataStruct/ss2/2.11_Insert/SqList_int.h
+
+/home/wang/DataStruct/ss2/2.11_Insert/SqList_int.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/wang/DataStruct/ss2/2.11_Insert/main.c
+stdio.h
+-
+SqList_int.h
+/home/wang/DataStruct/ss2/2.11_Insert/SqList_int.h
+

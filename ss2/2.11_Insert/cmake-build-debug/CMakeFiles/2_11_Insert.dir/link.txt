@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/2_11_Insert.dir/main.c.o CMakeFiles/2_11_Insert.dir/SqList_int.c.o  -o 2_11_Insert 

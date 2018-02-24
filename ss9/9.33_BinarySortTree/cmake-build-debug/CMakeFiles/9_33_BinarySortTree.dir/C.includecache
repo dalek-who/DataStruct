@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss9/9.33_BinarySortTree/Tree.c
+Tree.h
+E:/DataStruct/ss9/9.33_BinarySortTree/Tree.h
+
+E:/DataStruct/ss9/9.33_BinarySortTree/Tree.h
+stdio.h
+-
+stdlib.h
+-
+
+E:/DataStruct/ss9/9.33_BinarySortTree/main.c
+stdio.h
+-
+Tree.h
+E:/DataStruct/ss9/9.33_BinarySortTree/Tree.h
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Queue.c
+Queue.h
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Queue.h
+
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Queue.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+Tree.h
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Tree.h
+
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Tree.c
+Tree.h
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Tree.h
+
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Tree.h
+stdio.h
+-
+stdlib.h
+-
+
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/main.c
+stdio.h
+-
+Tree.h
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Tree.h
+Queue.h
+E:/DataStruct/ss6/6.49_CompleteBinaryTree/Queue.h
+

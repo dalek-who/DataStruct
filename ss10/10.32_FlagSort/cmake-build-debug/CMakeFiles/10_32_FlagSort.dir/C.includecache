@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss10/10.32_FlagSort/Queue.c
+Queue.h
+E:/DataStruct/ss10/10.32_FlagSort/Queue.h
+
+E:/DataStruct/ss10/10.32_FlagSort/Queue.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+E:/DataStruct/ss10/10.32_FlagSort/main.c
+Queue.h
+E:/DataStruct/ss10/10.32_FlagSort/Queue.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss6/6.43_ExchangeSubTree/Tree.c
+Tree.h
+E:/DataStruct/ss6/6.43_ExchangeSubTree/Tree.h
+
+E:/DataStruct/ss6/6.43_ExchangeSubTree/Tree.h
+stdio.h
+-
+stdlib.h
+-
+
+E:/DataStruct/ss6/6.43_ExchangeSubTree/main.c
+stdio.h
+-
+Tree.h
+E:/DataStruct/ss6/6.43_ExchangeSubTree/Tree.h
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/ss7/7.27_JudgeSimplePath/Graph_NeighborLinkList.h
+stdio.h
+-
+stdlib.h
+-
+LinkList.h
+E:/DataStruct/ss7/7.27_JudgeSimplePath/LinkList.h
+
+E:/DataStruct/ss7/7.27_JudgeSimplePath/Graph_NeignborLinklist.c
+Graph_NeighborLinkList.h
+E:/DataStruct/ss7/7.27_JudgeSimplePath/Graph_NeighborLinkList.h
+
+E:/DataStruct/ss7/7.27_JudgeSimplePath/LinkList.c
+LinkList.h
+E:/DataStruct/ss7/7.27_JudgeSimplePath/LinkList.h
+
+E:/DataStruct/ss7/7.27_JudgeSimplePath/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+E:/DataStruct/ss7/7.27_JudgeSimplePath/main.c
+stdio.h
+-
+Graph_NeighborLinkList.h
+E:/DataStruct/ss7/7.27_JudgeSimplePath/Graph_NeighborLinkList.h
+

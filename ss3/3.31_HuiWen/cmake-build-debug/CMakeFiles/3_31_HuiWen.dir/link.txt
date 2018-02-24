@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/3_31_HuiWen.dir/main.c.o CMakeFiles/3_31_HuiWen.dir/Queue.c.o CMakeFiles/3_31_HuiWen.dir/Stack.c.o  -o 3_31_HuiWen 

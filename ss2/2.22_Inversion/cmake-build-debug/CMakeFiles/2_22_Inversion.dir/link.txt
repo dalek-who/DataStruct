@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/2_22_Inversion.dir/main.c.o CMakeFiles/2_22_Inversion.dir/LinkList_int.c.o  -o 2_22_Inversion 

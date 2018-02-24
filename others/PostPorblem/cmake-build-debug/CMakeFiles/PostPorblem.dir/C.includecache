@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/DataStruct/others/PostPorblem/Queue.c
+Queue.h
+E:/DataStruct/others/PostPorblem/Queue.h
+
+E:/DataStruct/others/PostPorblem/Queue.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+Stack.h
+E:/DataStruct/others/PostPorblem/Stack.h
+
+E:/DataStruct/others/PostPorblem/Stack.c
+Stack.h
+E:/DataStruct/others/PostPorblem/Stack.h
+
+E:/DataStruct/others/PostPorblem/Stack.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+E:/DataStruct/others/PostPorblem/main.c
+stdio.h
+-
+Queue.h
+E:/DataStruct/others/PostPorblem/Queue.h
+string.h
+-
+
